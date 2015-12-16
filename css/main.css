@@ -2,6 +2,7 @@ body {
     margin: auto;
     width: 70%;
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
+    opacity: 0.2;
     background-position: center;
 }
 nav ul, footer ul {
