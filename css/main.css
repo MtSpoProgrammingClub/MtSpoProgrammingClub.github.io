@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: auto;
     width: 70%;
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
     background-position: center;
@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     padding:20px;
-    display: inline;
+    margin: auto;
     text-align: center;
 }
 a {
