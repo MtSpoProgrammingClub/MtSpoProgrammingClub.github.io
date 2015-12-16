@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<!-- link to main stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<head>
+		<title>Mount Spokane Programming Club Members</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Me</a></li>
+	        	<li><a href="/">also me</a></li>
+        		<li><a href="/cv">another me</a></li>
+        		<li><a href="/blog">more me</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Welcome to our site!</h1>
+				<p> blah <em> blah </em> blah <a href="/about">Read more about the club (as soon as I get the links up)</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:zaludmic000@gmail.com">please don't email me</a></li>
+        		<li><a href="https://github.com/MtSpoProgrammingClub">github.com/MtSpoProgrammingClub</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
