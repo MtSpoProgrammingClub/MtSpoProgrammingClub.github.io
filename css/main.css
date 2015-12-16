@@ -8,7 +8,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
+    padding:20px;
     text-align: center;
 }
 a {
