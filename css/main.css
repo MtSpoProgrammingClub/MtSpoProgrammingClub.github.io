@@ -24,6 +24,7 @@ a:hover {
 h1 {
     font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: #ffffff;
     color: #000000;
     text-align: center;
 }
