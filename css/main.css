@@ -9,6 +9,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     padding:20px;
+    display: inline;
     text-align: center;
 }
 a {
