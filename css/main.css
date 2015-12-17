@@ -4,10 +4,6 @@ body {
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
     background-position: center;
 }
-padding {
-    color: #ffffff;
-    opacity: .2;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
