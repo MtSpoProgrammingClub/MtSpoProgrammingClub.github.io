@@ -1,9 +1,8 @@
 body {
     margin: auto;
     width: 70%;
-    background-image:  linear-gradient(to right, black 0%, white 100%), url(https://www.estoresbyzome.com/estores/2121.full.jpg);
+    background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
     background-position: center;
-    background-blend-mode: color-dodge;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
