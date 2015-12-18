@@ -15,6 +15,7 @@ nav ul li, footer ul li {
 table{
     font-family:'Arial';
     text-align: center;
+    padding:10px;
     margin-top:5px;
     margin-bottom:5px;
 }
