@@ -3,6 +3,7 @@ body {
     width: 70%;
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
     background-position: center;
+    opacity:.8;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -17,6 +18,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #000000;
+    padding: #FFFFFF;
 }
 a:hover {
     text-decoration: underline;
@@ -25,12 +27,14 @@ h1 {
     font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #000000;
+    padding: #FFFFFF;
     text-align: center;
 }
 p {
     font-size: .8em;
     line-height: 1.4em;
     color: #000000;
+    padding: #FFFFFF;
 }
 footer {
     border-top: 1px solid #d5d5d5;
