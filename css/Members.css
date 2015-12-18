@@ -12,6 +12,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 0px;
 }
+table{
+    font-family:'Arial';
+    text-align: center;
+}
 a {
     text-decoration: none;
     color: #999;
