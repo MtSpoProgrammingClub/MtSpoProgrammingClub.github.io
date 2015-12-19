@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #00f9ff;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,7 +19,7 @@ table{
     padding:10px;
     margin-top:5px;
     margin-bottom:5px;
-    border:solid, 1px;
+    border:solid, 1px, #000000;
 }
 a {
     text-decoration: none;
