@@ -3,13 +3,12 @@ html{
     background-position: center;
 }
 body {
-    background-color: #000000;
+    background-color: #dc143c;
     margin: auto;
     width: 70%;
     opacity:.5;
 }
 nav ul, footer ul {
-    background-color: #dc143c;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
@@ -42,7 +41,6 @@ p {
     margin: #FFFFFF;
 }
 footer {
-    background-color: #dc143c;
     border-top: 1px solid #d5d5d5;
     font-size: 2em;
 }
