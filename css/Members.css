@@ -12,6 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 0px;
+    padding:20px;
 }
 table{
     font-style:'Arial';
