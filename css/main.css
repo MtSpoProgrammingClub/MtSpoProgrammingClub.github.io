@@ -1,10 +1,7 @@
 body {
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
-}
-body content {
     margin: auto;
     width: 70%;
-    background-color: #000000;
     background-position: center;
     opacity:.8;
 }
