@@ -1,5 +1,8 @@
-body {
+html{
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
+}
+body {
+
     margin: auto;
     width: 70%;
     background-position: center;
