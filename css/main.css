@@ -31,7 +31,7 @@ h1 {
     width: 90%;
     opacity:1.0;
     background-color: #0000ff;
-    font-size: 6em;
+    font-size: auto;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #000000;
     margin: #FFFFFF;
