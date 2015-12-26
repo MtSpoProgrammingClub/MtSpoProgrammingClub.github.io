@@ -6,6 +6,7 @@ body {
     opacity:.8;
 }
 nav ul, footer ul {
+    background-color: #dc143c;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
@@ -16,6 +17,7 @@ nav ul li, footer ul li {
     text-align: center;
 }
 a {
+    background-color: #0000ff;
     text-decoration: none;
     color: #000000;
     margin: #FFFFFF;
@@ -37,6 +39,7 @@ p {
     margin: #FFFFFF;
 }
 footer {
+    background-color: #dc143c;
     border-top: 1px solid #d5d5d5;
     font-size: 2em;
 }
