@@ -1,11 +1,10 @@
 html{
     background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
+    background-position: center;
 }
 body {
-
     margin: auto;
     width: 70%;
-    background-position: center;
     opacity:.8;
 }
 nav ul, footer ul {
