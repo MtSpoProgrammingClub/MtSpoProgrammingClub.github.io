@@ -28,10 +28,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    padding: auto;
     width: 90%;
     opacity:1.0;
     background-color: #0000ff;
-    font-size: auto;
+    font-size: 5.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #000000;
     margin: #FFFFFF;
