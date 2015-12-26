@@ -3,9 +3,10 @@ html{
     background-position: center;
 }
 body {
+    background-color: #000000;
     margin: auto;
     width: 70%;
-    opacity:.8;
+    opacity:.5;
 }
 nav ul, footer ul {
     background-color: #dc143c;
