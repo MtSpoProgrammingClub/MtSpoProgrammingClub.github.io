@@ -19,6 +19,7 @@ nav ul li, footer ul li {
     text-align: center;
 }
 a {
+    opacity: 1.0;
     text-decoration: none;
     color: #000000;
     margin: #FFFFFF;
@@ -27,6 +28,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    opacity:1.0;
     background-color: #0000ff;
     font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
