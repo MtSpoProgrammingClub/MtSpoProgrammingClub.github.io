@@ -28,6 +28,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    width: 90%;
     opacity:1.0;
     background-color: #0000ff;
     font-size: 6em;
