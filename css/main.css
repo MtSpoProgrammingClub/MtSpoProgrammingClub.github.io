@@ -15,8 +15,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     padding:20px;
-    margin: auto;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
     opacity: 1.0;
