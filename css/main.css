@@ -12,11 +12,11 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
 }
 nav ul li, footer ul li {
     padding:20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 a {
     opacity: 1.0;
