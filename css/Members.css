@@ -14,14 +14,14 @@ nav ul li, footer ul li {
     margin-right: 0px;
     padding:20px;
 }
-table{
+table {
     font-style:'Arial';
     padding:10px;
     margin-top:5px;
     margin-bottom:5px;
     border: solid 1px ;
 }
-table tr{
+td {
     text-align: center;
     border-style: solid;
     border-width: 1px;
