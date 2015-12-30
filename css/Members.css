@@ -18,11 +18,11 @@ nav ul li, footer ul li {
     padding: 20px;
 }
 table {
-    display: center;
+    position: center;
     padding: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
-    border: solid 5px;
+    border: dashed 5px;
     color: #e50000;
 }
 td {
