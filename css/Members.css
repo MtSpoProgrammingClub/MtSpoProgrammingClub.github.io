@@ -16,7 +16,7 @@ nav ul li, footer ul li {
     padding: 20px;
 }
 table {
-    text-align: center;
+    position: center;
     padding: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
