@@ -34,6 +34,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    font-size: *2;
 }
 h1 {
     padding: auto;
@@ -53,6 +54,9 @@ p {
     color: #000000;
     margin-left: 15px;
     margin-right: 15px;
+}
+p ol ul {
+    color: #000000;
 }
 footer {
     border-top: 1px solid #d5d5d5;
