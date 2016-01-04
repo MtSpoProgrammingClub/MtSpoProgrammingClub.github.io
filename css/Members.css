@@ -1,9 +1,14 @@
+html {
+    background-color: #cc0000;
+}
 body {
     text-align: center;
     position: center;
-    margin: 60px auto;
+    margin: auto;
     width: 70%;
-    background-color: #00c5cd;
+    background-color: #dc143c;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 nav ul, footer ul {
     width: 70%;
