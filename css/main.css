@@ -7,8 +7,8 @@ body {
     margin: auto;
     width: 70%;
     opacity: .9;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
