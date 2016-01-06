@@ -59,6 +59,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #0000ff;
     padding: auto;
+    margin: auto;
 }
 p {
     font-size: 1.5em;
