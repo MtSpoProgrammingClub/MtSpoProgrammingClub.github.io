@@ -55,12 +55,12 @@ a:hover {
 }
 h1 {
     text-align: center;
-    font-size: 3em;
+    font-size: 5.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #0000ff;
     padding: auto;
     margin: auto;
-    width: 90%;
+    width: 50%;
 }
 p {
     font-size: 1.5em;
