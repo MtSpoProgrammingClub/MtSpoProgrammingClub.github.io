@@ -1,12 +1,13 @@
-html {
-    background-color: #cc0000;
+html{
+    background-image: url(https://www.estoresbyzome.com/estores/2121.full.jpg);
+    background-position: center;
 }
 body {
     text-align: center;
     position: center;
     margin: auto;
     width: 70%;
-    background-color: #2c75ff;
+    background-color: #dc143c;
     margin-top: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
