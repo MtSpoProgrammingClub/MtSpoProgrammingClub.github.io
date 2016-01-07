@@ -26,7 +26,7 @@ nav ul, footer ul {
 }
 #left {
  float: left;
- background-color: #ffffff;
+ background-color: #dc1430;
  border: solid, 5px, #000000;
  padding: auto;
  margin-left: auto;
@@ -34,7 +34,7 @@ nav ul, footer ul {
 }
 #right {
  float: right;
- background-color: #ffffff;
+ background-color: #dc1430;
  border: solid, 5px, #000000;
  padding: auto;
  margin-left: auto;
