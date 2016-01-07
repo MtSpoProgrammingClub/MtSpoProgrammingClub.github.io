@@ -4,12 +4,12 @@ html{
 }
 body {
     background-color: #dc143c;
-    margin: auto;
     width: 70%;
     opacity: .9;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
+    margin-top: 10px;
 }
 nav ul, footer ul {
     width: 70%;
