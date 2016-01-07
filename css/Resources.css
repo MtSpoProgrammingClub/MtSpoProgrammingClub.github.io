@@ -18,7 +18,11 @@ nav ul, footer ul {
     margin bottom: 10px;
 }
 .container {
-    
+ padding: auto;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 20px;
+ margin-bottom: 20px;
 }
 #left {
  float: left;
