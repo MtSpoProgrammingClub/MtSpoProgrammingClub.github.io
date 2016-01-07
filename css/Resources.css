@@ -40,6 +40,9 @@ nav ul, footer ul {
  margin-left: auto;
  margin-right: auto;
 }
+#bottom {
+ clear: both;
+}
 nav ul li, footer ul li {
     display: inline;
     position: center;
