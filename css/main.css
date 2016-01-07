@@ -25,6 +25,7 @@ nav ul li, footer ul li {
     padding-right: 20px;
     margin-left: auto;
     margin-right: auto;
+    display: inline-block;
 }
 a {
     opacity: 1.0;
