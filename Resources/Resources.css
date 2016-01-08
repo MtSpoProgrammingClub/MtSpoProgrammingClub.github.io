@@ -33,22 +33,22 @@ nav ul li, footer ul li {
  margin-bottom: 20px;
 }
 #left {
- width: 50%;
+ width: 45%;
  float: left;
  background-color: #dc1430;
  border-style: solid;
- border-width: 3px;
+ border-width: 5px;
  border-color: #000000;
  padding: auto;
  margin-left: auto;
  margin-right: auto;
 }
 #right {
- width: 50%;
+ width: 45%;
  float: right;
  background-color: #dc1430;
  border-style: solid;
- border-width: 3px;
+ border-width: 5px;
  border-color: #000000;
  padding: auto;
  margin-left: auto;
