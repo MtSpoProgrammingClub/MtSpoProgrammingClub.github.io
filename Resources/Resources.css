@@ -16,7 +16,6 @@ body {
 nav ul, footer ul {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-left: 10px;
     list-style: none;
     font-weight: bold;
 }
