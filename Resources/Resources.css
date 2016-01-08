@@ -16,13 +16,16 @@ body {
 nav ul, footer ul {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-right: 20px;
+    padding-right: auto;
+    padding-left: auto;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: auto;
 }
 .container {
  padding: auto;
