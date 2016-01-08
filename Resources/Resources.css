@@ -35,7 +35,9 @@ nav ul li, footer ul li {
 #left {
  float: left;
  background-color: #dc1430;
- border: solid, 5px, #000000;
+ border-style: solid;
+ border-width: 3px;
+ border-color: #000000;
  padding: auto;
  margin-left: auto;
  margin-right: auto;
@@ -43,7 +45,9 @@ nav ul li, footer ul li {
 #right {
  float: right;
  background-color: #dc1430;
- border: solid, 5px, #000000;
+ border-style: solid;
+ border-width: 3px;
+ border-color: #000000;
  padding: auto;
  margin-left: auto;
  margin-right: auto;
