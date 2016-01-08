@@ -22,10 +22,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: 10px;
 }
 .container {
  padding: auto;
