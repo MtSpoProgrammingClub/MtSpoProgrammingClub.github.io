@@ -38,7 +38,7 @@ nav ul li, footer ul li {
  text-align: left;
  background-color: #dc1430;
  border-style: solid;
- border-width: 5px;
+ border-width: .2em;
  border-color: #000000;
  padding: auto;
  margin-left: auto;
@@ -49,7 +49,7 @@ nav ul li, footer ul li {
  float: right;
  background-color: #dc1430;
  border-style: solid;
- border-width: 5px;
+ border-width: .2em;
  border-color: #000000;
  padding: auto;
  margin-left: auto;
