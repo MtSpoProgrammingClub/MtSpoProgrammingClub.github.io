@@ -33,7 +33,7 @@ nav ul li, footer ul li {
  margin-bottom: 20px;
 }
 #left {
- width: 45%;
+ width: 49%;
  float: left;
  background-color: #dc1430;
  border-style: solid;
@@ -44,7 +44,7 @@ nav ul li, footer ul li {
  margin-right: auto;
 }
 #right {
- width: 45%;
+ width: 49%;
  float: right;
  background-color: #dc1430;
  border-style: solid;
