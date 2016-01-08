@@ -23,7 +23,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 5px;
-    padding: 20px;
+    padding: 10px;
 }
 a {
     opacity: 1.0;
