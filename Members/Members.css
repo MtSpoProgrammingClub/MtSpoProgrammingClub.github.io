@@ -14,16 +14,14 @@ body {
     opacity: .9;
 }
 nav ul, footer ul {
-    width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding-right: 20px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 5px;
-    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 table {
     position: center;
