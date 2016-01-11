@@ -55,11 +55,11 @@ a:hover {
     opacity: .5;
 }
 h1 {
+    padding: 20px 30px 20px 30px;
     text-align: center;
     font-size: 5.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #0000ff;
-    padding: auto;
     margin: auto;
     width: 45%;
 }
